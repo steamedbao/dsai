@@ -1,0 +1,80 @@
+Univariate stats
+
+Exploratory analysis
+- What are the var 
+- How to characterize var
+- How to find relation btw them
+- How to describe data as an overall structure
+
+Basic summary
+- Average, deviation, max and mmin
+- Central tendency: mean
+- Dispersion: statndard deviation
+  - average deviation from the mean
+  - square root of (sum square of deviation divided by n)
+  - on average: most data exist between average-deviation and average+deviation
+  - Median: divide data into 50%
+  - Dispersion: distributions by quartiles
+  - Median lies between the 2st(25%) and 3rd(75%) quartiles
+  
+Box and whiskers plot
+- The box contain 50% of data, from Q1 to Q3.
+- Concentrated data
+- Gap between 2nd and 3rd quartile x 1.5 = gap btw 1st and 2nd / gap btw 3rd and 4th
+- Beyond the two whiskers, the points are outliers
+
+------------------------------------------------------------------------------------------------------------------
+Plot of a frequency table is a histogram
+
+KDE give a smooth line representation of a histogram
+
+------------------------------------------------------------------------------------------------------------------
+Violin plot = box plot + density plot
+
+------------------------------------------------------------------------------------------------------------------
+Normal distribution
+Gaussian normal distribution - "Bell" curve
+
+standard deviation = square root of variance
+Most data would be within Mean +- 3 std 
+Data outside are outliers
+
+Pure normal distribution would have same mean and median
+
+Confidence|Interval in terms of SD
+90%       |  mean +- 1.645SD
+95%       |  mean +- 1.96SD
+99%       |  mean +- 2.576SD
+
+------------------------------------------------------------------------------------------------------------------
+Uni-variate box-plot
+
+Bi-variate joint plot
+Statistical relation
+
+Pattern recognition: general trend, moderately strong?
+Correlation coefficient
+No dependence corr = 0
+Perfect positive corr = 1
+Perfect negative corr = -1
+
+Correlation matrix - dependence
+- Symmetric plot
+- Heat map
+- Close to 1: white
+- Close to 0: dark shade
+
+------------------------------------------------------------------------------------------------------------------
+Box plots show the var with larger spread
+Shows the var with a lot of outliers
+Violin plot = combination of histogram and KDE
+
+Can do for both uni-variate and multi-variate
+
+Mutual correlations for variables
+
+Pair-plot of multi-variate daata
+- Histograms in diagonals
+- Scatter-plot in off-diagonals
+
+
