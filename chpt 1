@@ -1,0 +1,109 @@
+Componenets of a data science pipeline
+1. Practical motivation
+2. Problem formulation
+3. Statistical description
+4. Pattern recognition
+5. Machine learning
+6. Statistical inference
+7. Intelligent decision
+
+
+Practical motivation
+- Identify a data science case
+- Effectively sample real data that reflect reality and match the problem
+- Connecting problem to data
+
+Problem formulation
+- Are there enough data for analysis
+- Structure of analysis - prepare raw data
+
+Statistical analysis
+- How to succinctly represent data?
+- How to effectively mine data
+- Gain insight from data
+
+Pattern recognition
+- How to find intrinsic insight from data?
+- Visualizing data to highlight traits
+
+Machine learning
+- Learning from data - find models
+- Optimise the models - reduce errors in learning
+
+Statisticaal inference
+- Confidently infer
+- Communicate & present the analysis
+
+Intelligent decision
+- How to solve a real life problem using data
+- Responsibly and ethically work
+------------------------------------------------------------------------------------------------------------------------
+Raw data to actionable intelligence!
+- real-life prob translated in data
+- descriptive and inferential analytics
+- effective communication and decision
+------------------------------------------------------------------------------------------------------------------------
+How much? How many?
+Type A or type B?
+How is this organized?
+-------------------------------------------------------------------------------------------------------------------------
+Common problems
+Is it weird behavior?
+- Anomaly detection
+
+What shoule be done next?
+- Break? Accelerate?
+- Eg electric car
+
+How to intelligently formulate a prob?
+--------------------------------------------------------------------------------------------------------------------------
+Structured data
+Organized, easy to analyze, time series, numeric
+
+Unstructured data
+Text, image, voice, videos, highly unorganized and contextual
+
+--------------------------------------------------------------------------------------------------------------------------
+Structured data
+- highly organized
+- clearly defined var
+- easy to mine
+- numeric continuous var
+
+Categorical data
+- factor/ level/ class var
+
+Mixed data
+- numeric and categorical
+
+Time series
+- numeric with timestamps
+
+Network data - social network, transport, websites, financial transaction
+- highly organized nodes
+- clearly defined links
+- ez to mine and analyze
+- nodes and connections
+
+How to intelligently handle data?
+
+--------------------------------------------------------------------------------------------------------------------------
+Unstructured data 
+- Highly unorganized
+- non-obvious var
+- highly context-sensitive
+
+Text - tweets
+- words, phrases, emoticons
+
+Image
+- pixels & objects
+
+Video
+- image, frames, objects
+
+Voice
+- voice signals and waves
+
+--------------------------------------------------------------------------------------------------------------------------
+
